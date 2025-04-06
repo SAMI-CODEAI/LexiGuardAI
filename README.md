@@ -110,11 +110,6 @@ GEMINI_API_KEY = "your-gemini-api-key"
 
 Pull requests are welcome! For major updates, please open an issue to discuss.
 
----
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
